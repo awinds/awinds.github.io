@@ -37,7 +37,7 @@
             }
         },
         "theme": "default",
-        "author": "Tao He",
+        "author": "awinds",
         "pdf": {
             "pageNumbers": true,
             "fontSize": 12,
@@ -58,7 +58,7 @@
         },
         "variables": {},
         "title": "{{site.title}}",
-        "language": "en",
+        "language": "zh-CN",
         "gitbook": "*"
     },
     "file": {
