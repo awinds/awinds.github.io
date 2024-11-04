@@ -1,10 +1,4 @@
----
-layout: home  
-title: 小A  
-permalink: /
----
+我的主页，我的github Pages!
 
-第一个github Pages!
-
-## jekyll Theme
-    用jekyll生成blog!
+## 欢迎来的我的Blog
+[https://xiaoa.me](https://xiaoa.me)
